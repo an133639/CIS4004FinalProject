@@ -1,1 +1,7 @@
 
+File types:
+
+* .js 
+* .css 
+* .html 
+* .json
